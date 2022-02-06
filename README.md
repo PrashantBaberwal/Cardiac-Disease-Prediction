@@ -56,6 +56,9 @@ The project was based on the following research from which I extracted a lot of 
 
 - Attention: The above application was created as part of a course for practicing programming languages. It is not used for medical purposes as there is a high probability of invalid results and the only purpose of its creation is to practice programming.
 
+
+To start the program, download the heart.csv dataset file from here: https://www.kaggle.com/ronitf/heart-disease-uci and then run the python code (Cardiac_ Disease_Code.py) in same folder with the dataset.
+
 Personal info:
 
     Developer: Anastasios Koumarelis (akoumarelis@gmail.com)
