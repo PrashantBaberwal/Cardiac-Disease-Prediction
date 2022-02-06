@@ -49,7 +49,10 @@ The probability of occur cardiac disease this man is 0.4562 as shown in below Fi
 
 The project was based on the following research from which I extracted a lot of information:
 
-    Nikos Papatheodorou, Nikos Ntantinakis, Stefanos Zervoudakis, Emmanouil Marakakis, and Haridimos Kondylakis. 2020. A Probabilistic Logic Program that Predicts COVID-19 Infection and the Possibility a Patient to Recover. In 24th Pan-Hellenic Conference on Informatics (PCI 2020). Association for Computing Machinery, New York, NY, USA, 272–276. DOI:https://doi.org/10.1145/3437120.3437323
+    Nikos Papatheodorou, Nikos Ntantinakis, Stefanos Zervoudakis, Emmanouil Marakakis, and Haridimos Kondylakis. 2020. 
+    A Probabilistic Logic Program that Predicts COVID-19 Infection and the Possibility a Patient to Recover. 
+    In 24th Pan-Hellenic Conference on Informatics (PCI 2020). 
+    Association for Computing Machinery, New York, NY, USA, 272–276. DOI:https://doi.org/10.1145/3437120.3437323
 
 - Attention: The above application was created as part of a course for practicing programming languages. It is not used for medical purposes as there is a high probability of invalid results and the only purpose of its creation is to practice programming.
 
